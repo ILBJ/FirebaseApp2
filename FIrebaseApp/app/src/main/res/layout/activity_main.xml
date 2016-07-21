@@ -15,28 +15,6 @@
               android:textSize="30dp"
         android:layout_marginTop="69dp"
         android:layout_alignParentTop="true"
-        android:layout_alignRight="@+id/ivDisplay"
-        android:layout_alignEnd="@+id/ivDisplay" />
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/ivProfile"
-        android:src="@drawable/basicprofilepicture"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="false"
-        android:layout_alignBottom="@+id/fullName2"
-        android:layout_alignParentEnd="false"
-        android:layout_alignParentRight="false"
         android:layout_centerHorizontal="true" />
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/ivDisplay"
-        android:src="@drawable/givnitelogo"
-        android:layout_centerHorizontal="true"
-        android:layout_below="@+id/fullName2" />
 
 </RelativeLayout>

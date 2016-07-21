@@ -33,8 +33,8 @@ public class MainActivity extends AppCompatActivity {
 //            Log.d(TAG, user.getPhotoUrl().toString());
 
             TextView fullNameTV = (TextView) findViewById(R.id.fullName2);
-            ImageView profileImage = (ImageView) findViewById(R.id.ivProfile);
-            ImageView photoImage = (ImageView) findViewById(R.id.ivDisplay);
+            //ImageView profileImage = (ImageView) findViewById(R.id.ivProfile);
+            //ImageView photoImage = (ImageView) findViewById(R.id.ivDisplay);
             profileImage.setImageURI(user.getPhotoUrl());
             fullNameTV.setText(user.getDisplayName());
 //            final Button photoButton = (Button) findViewById(R.id.bCapture2);
