@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "674990715757",
+    "firebase_url": "https://myfirebaseapp-6680d.firebaseio.com",
+    "project_id": "myfirebaseapp-6680d",
+    "storage_bucket": "myfirebaseapp-6680d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674990715757:android:0892082b53a6576c",
+        "android_client_info": {
+          "package_name": "com.gankyphadke.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674990715757-m256ie0mg09fd2n9vj913j095p41jhtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkJyqpbaQL64vsGOt_w-cJ5In78Idh9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.0_6ed7d29242b5fbbb971bce5f3e5292b286923811.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.2_0bd2c59e6bba6d9f375133eb580c6dd4f47340a4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.2_f70ce7cf3aa1cd087f406fd43b4cea802a2b5230.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.13.1_47fcf117c2e46b7fa8cdee13d5f6fc2b89e2819a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.0.2_56930039f5e316c89bf61d8c8f543eda5dedd89e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.2_89e65ca655a926944261dbddaa46ec2b4dbfeb1c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_bb77bcf43f1eece6a757906ac2453a289d25a8c9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.0.2_cc4d44cef99efde80486796b0002e18f065eab88.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_8be132541c7abdc73c570d79512d05c89f5396ab.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_d19a188f8c451366b16f5dadbdd80f2f6559b64e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_0ec4890daa99a25d63b4e832387c3a1dfe5c12f2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_bbd5c59f52a3965a489480fabe4b7b7b8ce6f032.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.2_572acd179811e05146bd39801b2a5227d5bf2bf4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.2_5f7111f2cee19baa4b19b5a92f815abaffc6e683.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_4afbc3679448cfdb08307b9d021f1beef3c3cd58.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.2_8edf61708e6fd8b981df7d40d107db1740bf07a1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.0.2_765f5b54d1a9633fdc166f3f607c98ba00706fb6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.2_87bbeef70c3abc4690e10465a6289375ec5403bd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.2_257af27f191c139b996da1a8514acdf72022b4c2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_b2aeeadd950bb44cafa3d03fd17280fdffc040b2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.0.2_527e6c9c4c7f0a069fb91b2ec9a3be5f509a45c4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/debug_041039f653f3d8cea40fbf173b1d9b72beb1a8f7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.0.2_bd95f4fef774779ce0f1412259a9d774f3f3fe73.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.0.2_5f0b309240e46ebb9a4066cb46048d55a1aae693.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.2_cbefba23994de96ee10f453cc0a01b5b9acb0238.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.0.2_6ac2d1fca65ce984ba1fe95252a480ea6fcdc654.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.2_0c33224ec8920d92c240f41afe42c6a74c88606c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_17306f5b88608468a4fe690185feae60aab0ffa2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FIrebaseApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.2_b1e551e04eb7181aa63702548303a8d60ed64fdd.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

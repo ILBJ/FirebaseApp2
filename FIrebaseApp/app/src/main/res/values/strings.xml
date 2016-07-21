@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="facebook_app_id">672487862898865</string>
+</resources>
